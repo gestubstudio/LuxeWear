@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/LuxeWear": {},
+    "/LuxeWear/about": {},
+    "/LuxeWear/login": {},
+    "/LuxeWear/register": {}
+  }
+}
